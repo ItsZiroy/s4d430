@@ -1,0 +1,15 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"Z05_BOOKING"
+],
+"ASSOCIATED":
+[
+"SPFLI"
+],
+"BASE":
+[]
+}
+}
